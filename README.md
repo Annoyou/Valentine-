@@ -1,7 +1,7 @@
 # How to Pull a Baddie This Valentine's Day
 
 Welcome to the ultimate guide to charm your way into someone's heart with a web app that's as cheeky as you are. This isn't just a project—it's your ticket to Valentine's Day success. You're welcome ;)\
-Made using simple HTML/CSS, JavaScript, Anime.js, Tailwind CSS
+Made using simple HTML/CSS, JavaScript, Anime.js, Tailwind CSS.
 
 ## Why This Pulls Baddies
 
