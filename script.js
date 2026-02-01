@@ -1,5 +1,3 @@
-import confetti from "https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/+esm";
-import anime from "https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.es.js";
 
 const yesButton = document.getElementById('yesButton');
 const noButton = document.getElementById('noButton');
@@ -156,6 +154,7 @@ const getRandomNumber = (num) => {return Math.floor(Math.random() * (num + 1));}
   }
 
   
+
 
 
 
